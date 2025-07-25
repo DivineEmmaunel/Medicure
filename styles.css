@@ -1,0 +1,52 @@
+ body {
+    font-family: Arial;
+    
+    margin: auto-center;
+    background-color: cornsilk;
+    
+    padding: 10px;
+    margin-left: 20px;
+    
+}
+
+h1 {
+    color:blue;
+}
+h2 {
+    color:darkgray;
+}
+table {
+    width:80%;
+    margin: 20px,auto;
+}
+th,td {
+    border: 1px solid#1ab9e0;
+    padding:5px;
+    text-align: center;
+}
+th {
+    background-color: #1ab9e0;
+    color: white;
+}
+nav {
+    display: flex ;
+    justify-content: space-between;
+}
+nav a{
+    text-decoration: none;
+
+}
+li{
+    font-weight:600;
+    font-style: italic;
+    font-family:'Times New Roman', Times, serif
+}
+
+#About p{
+    color: rgb(34, 32, 32);
+}
+img{
+    width: 250px;
+    padding: 10px;
+    margin: 5px;
+}
